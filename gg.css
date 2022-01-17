@@ -1,0 +1,27 @@
+.gg{
+background-color: 		#00BFFF;
+height: 280px}
+.ggg{
+padding-top:20px ;
+padding-left: 20px;
+font-variant: small-caps;
+font-size: xx-large;
+}
+.rt{
+padding-top: 60px;
+text-align: center;
+font-size: 25px;
+display:flex;
+justify-content:space-around;
+align-items:center;
+flex-wrap:wrap;
+}
+.rt a{
+  /*Чтобы ничего не слиплось*/
+  display:inline-block;
+  padding:10px;
+}
+.ttr{
+text-align: center;
+font-size: 100px;
+}
